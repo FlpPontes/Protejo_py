@@ -75,6 +75,7 @@ if son != 'S':
             coaf = utilidades.conf(senha)
 
 # -- Final Senha --
+saves.ne(user,name[0],name[1],name[2],age,senha)
 # -- Fim de Criação de Conta --
 
 # ------------------------------------------------------------------------------
